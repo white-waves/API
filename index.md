@@ -4,7 +4,7 @@ Official API documentation for White Waves game.
 
 ## REST API
 
-- [User information](/user/)
-- [Player information](/player/)
+- [User information](./user/)
+- [Player information](./player/)
 
 ## WebSocket
